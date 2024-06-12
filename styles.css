@@ -118,3 +118,13 @@ body {
     background-color: #fff;
     box-shadow: none;
 }
+#cards-container{
+    width: 60vw;
+    margin: auto;
+    margin-top: 1em;
+    background-color: #666;
+    border: 2px solid aqua;
+    border-radius: 15px;
+    
+
+}
